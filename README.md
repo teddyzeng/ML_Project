@@ -1,1 +1,1 @@
-# ML_Project
+# ML Project: Human Activity Recognition (HAR)
