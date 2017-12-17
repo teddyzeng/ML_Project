@@ -11,5 +11,4 @@ The dataset used can be downloaded here:
 * [Dataset](HAR_data.txt)
 
 Additional information: 
-* [Human Activity Recognition](http://groupware.les.inf.puc-rio.br/har)
 * [Wearable Computing: Accelerometers’ Data Classification of Body Postures and Movements](http://groupware.les.inf.puc-rio.br/public/papers/2012.Ugulino.WearableComputing.HAR.Classifier.RIBBON.pdf)
